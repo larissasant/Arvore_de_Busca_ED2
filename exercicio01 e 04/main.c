@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "arv_bin.h"
-#include <stdbool.h>
 
 
 int main (){
